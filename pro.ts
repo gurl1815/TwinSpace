@@ -1,3 +1,1 @@
 연습용.ts
-sdfsdfsdfsdfsdfsdfsdf
-ddfgdgdfgdfg
